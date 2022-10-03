@@ -7,31 +7,30 @@ body {
 header {
   background-color: lightyellow;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   font-size: 2rem;
 }
 
-.square1{
-    width: 80px;
-    height: 80px;
-    background-color: red;
-    
+.square1 {
+  width: 80px;
+  height: 80px;
+  background-color: red;
 }
-.square2{
-    width: 80px;
-    height: 80px;
-    background-color:red;
+.square2 {
+  width: 80px;
+  height: 80px;
+  background-color: red;
 }
-.square3{
-    width: 80px;
-    height: 80px;
-    background-color: red;
+.square3 {
+  width: 80px;
+  height: 80px;
+  background-color: red;
 }
-.square4{
-    width: 80px;
-    height: 80px;
-    background-color:red;
+.square4 {
+  width: 80px;
+  height: 80px;
+  background-color: red;
 }
 
 main {
@@ -42,48 +41,47 @@ main {
   font-size: 2rem;
 }
 
-.square5{
-    width: 80px;
-    height: 80px;
-    background-color: red;
-    align-self: flex-end;
+.square5 {
+  width: 80px;
+  height: 80px;
+  background-color: red;
+  align-self: flex-end;
 }
-.square6{
-    width: 80px;
-    height: 80px;
-    background-color: red;
-    align-self: flex-end;
+.square6 {
+  width: 80px;
+  height: 80px;
+  background-color: red;
+  align-self: flex-end;
 }
-.square7{
-    width: 80px;
-    height: 80px;
-    background-color: red;
-    align-self: flex-end;
+.square7 {
+  width: 80px;
+  height: 80px;
+  background-color: red;
+  align-self: flex-end;
 }
-.square8{
-    width: 80px;
-    height: 80px;
-    background-color: red;
-    align-self: flex-end;
+.square8 {
+  width: 80px;
+  height: 80px;
+  background-color: red;
+  align-self: flex-end;
 }
 
 footer {
   background-color: lightskyblue;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   font-size: 2rem;
-  
+}
 
+.square9 {
+  width: 80px;
+  height: 80px;
+  background-color: red;
 }
-.square9{
-    width: 80px;
-    height: 80px;
-    background-color: hotpink;
-    
-}
-.square10{
-    width: 80px;
-    height: 80px;
-    background-color: red;
+
+.square10 {
+  width: 80px;
+  height: 80px;
+  background-color: red;
 }
